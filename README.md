@@ -1,7 +1,11 @@
 ## Hi there, I'm Matt!
+- 📇Personal details<br>
+— Lives in Bacolod City 📍<br>
+— Studied 13 years at USLS 📚<br>
 - 🐱‍💻 1st year CS student
 - 😴 Sleepy
-- 📍 6100
+- 🏊🏻🏃‍♀️🚴🏿Loves to do triathlon
+- 🎞️ Shooting 35mm film
 
 ### Skills:
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
