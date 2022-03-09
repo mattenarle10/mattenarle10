@@ -20,6 +20,7 @@
 <a href="https://facebook.com/mattenarle10" rel="nofollow"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://instagram.com/mattenarle" rel="nofollow"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://open.spotify.com/user/enarlem?si=eb7417a6e5b647a7" rel="nofollow"><img src="https://img.shields.io/badge/Spotify-1ED760?&amp;style=for-the-badge&amp;logo=spotify&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://discordapp.com/users/sojuboi#4353/" rel="nofollow"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
 #### Youtube Channel:
 <a href="https://www.youtube.com/channel/UCkafRzI7ANlbUvSruL0VKmA" rel="nofollow"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 #### Carrd websites:
