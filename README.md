@@ -1,4 +1,6 @@
-## Hi there, I'm Matt!
+## Hi there, I'm Matt! 
+><img align="center">![](https://media.giphy.com/media/10bHcDcPM925ry/giphy.gif) </img>
+
 - 📇Personal details<br>
 — Lives in Bacolod City 📍<br>
 — Studied 13 years at USLS 📚<br>
