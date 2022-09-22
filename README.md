@@ -3,8 +3,7 @@
 
 - 📇Personal details<br>
 — Lives in Bacolod City 📍<br>
-— Studied 13 years at USLS 📚<br>
-- 💻 1st year CS student
+- 💻 2nd year CS student
 - 😴 Sleepy
 - 🏊🏻🏃‍♀️🚴🏿Loves to do triathlon
 - 🎞️ Shooting 35mm film
