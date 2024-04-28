@@ -3,7 +3,7 @@
 
 - 📇Personal details<br>
 — Lives in Bacolod City 📍<br>
-- 💻 2nd year CS student
+- 💻  CS student
 - 😴 Sleepy
 - 🏊🏻🏃‍♀️🚴🏿Loves to do triathlon
 - 🎞️ Shooting 35mm film
