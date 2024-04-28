@@ -5,7 +5,7 @@
 — Lives in Bacolod City 📍<br>
 - 💻  CS student
 - 😴 Sleepy
-- 🏊🏻🏃‍♀️🚴🏿Loves to do triathlon
+- 🏊🏻🏃‍♀️🚴🏿Loves to run
 - 🎞️ Shooting 35mm film
 
 ### Skills:
