@@ -24,7 +24,7 @@
 <a href="https://discordapp.com/users/sojuboi#4353/" rel="nofollow"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
 #### Youtube Channel:
 <a href="https://www.youtube.com/channel/UCkafRzI7ANlbUvSruL0VKmA" rel="nofollow"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-#### Carrd websites:
-https://omicron101.carrd.co/ <br>
-https://pe-advocacy.carrd.co/
+#### My Portfolio:
+https://mattenarle-portfolio.vercel.app <br>
+
 
