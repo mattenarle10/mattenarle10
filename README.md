@@ -15,7 +15,7 @@ I build things that matter. My focus is on creating applications that solve real
 ## Tech I Work With
 
 ```
-🔍 AI/ML        | TensorFlow, Python, OpenCV 
+🔍 AI/ML        | TensorFlow, Python, OpenCV, FastAPI
 🌐 Web          | Next.js, Vue.js, React
 📱 Mobile        | Flutter, Android (Java)
 💾 Data         | MySQL, DynamoDB, Firebase, Postgres
@@ -32,9 +32,12 @@ I build things that matter. My focus is on creating applications that solve real
 
 ## 📊 GitHub Stats
 
-[![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattenarle10&show_icons=true&theme=tokyonight)](https://github.com/mattenarle10)
+<a href="https://github.com/mattenarle10">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mattenarle10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mattenarle10&layout=compact&langs_count=6&theme=tokyonight"/>
+</a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mattenarle10&layout=compact&theme=tokyonight)](https://github.com/mattenarle10)
+<!-- Note: GitHub stats are generated using https://github.com/anuraghazra/github-readme-stats -->
 
 ## 📫 Reach Me
 
