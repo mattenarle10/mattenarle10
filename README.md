@@ -42,7 +42,6 @@ I build things that matter. My focus is on creating applications that solve real
 ## 📫 Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-matthew--enarle-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/matthew-enarle)
-[![GitHub](https://img.shields.io/badge/GitHub-mattenarle10-181717?style=for-the-badge&logo=github)](https://github.com/mattenarle10)
 [![Email](https://img.shields.io/badge/Email-enarlem10%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:enarlem10@gmail.com)
 
-**Other Socials:** [Facebook](https://facebook.com/mattenarle10) | [Instagram](https://instagram.com/mattenarle) | [YouTube](https://www.youtube.com/channel/UCkafRzI7ANlbUvSruL0VKmA) | [Spotify](https://open.spotify.com/user/enarlem?si=eb7417a6e5b647a7)
+**Other Socials:**  [Instagram](https://instagram.com/mattenarle) | [YouTube](https://www.youtube.com/channel/UCkafRzI7ANlbUvSruL0VKmA) | [Spotify](https://open.spotify.com/user/enarlem?si=eb7417a6e5b647a7)
