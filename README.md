@@ -30,14 +30,6 @@ I build things that matter. My focus is on creating applications that solve real
 **🍽️ Reserba** - Platform for food stall reservation and management built with Flutter.  
 **🏔️ Off the Grid** - Hike tracking app for mountaineers in Negros Occidental using Google Maps API.  
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/mattenarle10">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mattenarle10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mattenarle10&layout=compact&langs_count=6&theme=tokyonight"/>
-</a>
-
-<!-- Note: GitHub stats are generated using https://github.com/anuraghazra/github-readme-stats -->
 
 ## 📫 Reach Me
 
