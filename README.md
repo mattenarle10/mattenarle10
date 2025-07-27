@@ -16,10 +16,10 @@ I build things that matter. My focus is on creating applications that solve real
 
 ```
 🔍 AI/ML        | TensorFlow, Python, OpenCV, FastAPI
-🌐 Web          | Next.js, Vue.js, React
-📱 Mobile       | Flutter, Android (Java)
+🌐 Web          | Next.js, Vue.js, React, 
+📱 Mobile       | Flutter, Android (Java), React Native (Expo)
 💾 Data         | MySQL, DynamoDB, Firebase, Postgres
-☁️ Cloud        | AWS, DynamoDB, RDS, S3, Amplify, API Gateway, etc.
+☁️ Cloud        | AWS, DynamoDB, RDS, S3, Amplify, Cognito, etc.
 🎨 Others       | Three.js, Google Maps API, Mapbox API
 ```
 
