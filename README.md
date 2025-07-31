@@ -31,6 +31,4 @@ I build things that matter. My focus is on creating applications that solve real
 **🏔️ Off the Grid** - Hike tracking app for mountaineers in Negros Occidental using Google Maps API.  
 
 
-## 📫 Reach Me
 
-[Instagram](https://instagram.com/mattenarle) | [YouTube](https://www.youtube.com/channel/UCkafRzI7ANlbUvSruL0VKmA) | [Spotify](https://open.spotify.com/user/enarlem?si=eb7417a6e5b647a7)
