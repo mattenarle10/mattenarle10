@@ -6,7 +6,7 @@
 
 > Marathoner, coder, and film photographer from Bacolod City 🇵🇭
 
-Check out my work at [mattenarle-portfolio.vercel.app](https://mattenarle.vercel.app)
+Check out my work at [mattenarle.vercel.app](https://mattenarle.vercel.app)
 
 ## What I'm About
 
