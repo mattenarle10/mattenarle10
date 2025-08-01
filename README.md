@@ -6,8 +6,6 @@
 
 > Marathoner, coder, and film photographer from Bacolod City 🇵🇭
 
-Check out my work at [mattenarle.vercel.app](https://mattenarle.vercel.app)
-
 ## What I'm About
 
 I build things that matter. My focus is on creating applications that solve real problems, whether it's safety systems for wheelchairs or platforms that connect people. When I'm not coding, you'll find me shooting on 35mm film or out for a run.
