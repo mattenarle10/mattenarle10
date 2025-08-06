@@ -15,7 +15,8 @@
 <p align="center">
   I build things that matter. My focus is on creating applications that solve real problems — whether it's safety systems for wheelchairs or platforms that connect people. When I'm not coding, you'll find me shooting on 35mm film or out for a run.
 </p>
-## Tech I Work With
+
+### Tech I Work With
 
 ```
 🔍 AI/ML        | TensorFlow, Python, OpenCV, FastAPI
