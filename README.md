@@ -28,9 +28,5 @@ I build things that matter. My focus is on creating applications that solve real
 **🍽️ Reserba** - Platform for food stall reservation and management built with Flutter.  
 **🏔️ Off the Grid** - Hike tracking app for mountaineers in Negros Occidental using Google Maps API.  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/10bHcDcPM925ry/giphy.gif" alt="Matt coding" width="300"><br>
-  <img src="https://streak-stats.demolab.com?user=mattenarle10&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mattenarle10)](https://git.io/streak-stats)
 
