@@ -1,18 +1,20 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/10bHcDcPM925ry/giphy.gif" alt="Matt coding" width="300">
+  <img src="https://media.giphy.com/media/10bHcDcPM925ry/giphy.gif" alt="Matt coding" width="300" />
 </p>
+
+<h1 align="center">Matt Enarle</h1>
 
 <p align="center">
-# Matt Enarle
+  <em>🏃 Marathoner, 👨‍💻 coder, and 📸 film photographer from Bacolod City 🇵🇭</em>
 </p>
-> Marathoner, coder, and film photographer from Bacolod City 🇵🇭
 
+---
 
-## What I'm About
+## <p align="center">What I'm About</p>
+
 <p align="center">
-I build things that matter. My focus is on creating applications that solve real problems, whether it's safety systems for wheelchairs or platforms that connect people. When I'm not coding, you'll find me shooting on 35mm film or out for a run.
+  I build things that matter. My focus is on creating applications that solve real problems — whether it's safety systems for wheelchairs or platforms that connect people. When I'm not coding, you'll find me shooting on 35mm film or out for a run.
 </p>
-
 ## Tech I Work With
 
 ```
