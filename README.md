@@ -5,7 +5,7 @@
 <h1 align="center">Matt Enarle</h1>
 
 <p align="center">
-  <em>🏃 Marathoner, 👨‍💻 coder, and 📸 film photographer from Bacolod City 🇵🇭</em>
+  <em>🏃 Marathoner, Hybrid Athlete, who loves to build apps 👨‍💻 from Bacolod City 🇵🇭</em>
 </p>
 
 ---
