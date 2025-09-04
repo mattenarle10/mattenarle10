@@ -19,11 +19,11 @@
 ### Tech I Work With
 
 ```
-🔍 AI/ML        | TensorFlow, Python, OpenCV, FastAPI
-🌐 Web          | Next.js, Vue.js, React, 
+🌐 Web          | Next.js, Vue.js, React, GSAP
 📱 Mobile       | Flutter, Android (Java), React Native (Expo)
-💾 Data         | MySQL, DynamoDB, Firebase, Postgres
+💾 Data         | MySQL, DynamoDB, Firebase, Postgres (RDS)
 ☁️ Cloud        | AWS, DynamoDB, RDS, S3, Amplify, Cognito, etc.
+🔍 AI/ML        | TensorFlow, Python, OpenCV, FastAPI
 🎨 Others       | Three.js, Google Maps API, Mapbox API
 ```
 
