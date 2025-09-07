@@ -35,6 +35,9 @@
 **🏔️ Off the Grid** - Hike tracking app for mountaineers in Negros Occidental using Google Maps API.  
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mattenarle10&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=mattenarle10&theme=nightfox"/>
   </a>
