@@ -23,13 +23,6 @@
 🎨 Others       | Three.js, Google Maps API, Mapbox API
 ```
 
-## Things I've Built
-
-**🧠 NeuroWarn BCI** - AI-powered safety system for smart wheelchairs. My undergrad thesis!  
-**🛒 Anik.3D** - Cloud-Native ecommerce platform for high-quality 3D Aniks using Next.js and AWS.  
-**🍽️ Reserba** - Platform for food stall reservation and management built with Flutter.  
-**🏔️ Off the Grid** - Hike tracking app for mountaineers in Negros Occidental using Google Maps API.  
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=mattenarle10&theme=nightfox"/>
