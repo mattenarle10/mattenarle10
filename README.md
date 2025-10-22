@@ -4,14 +4,6 @@
 
 <h1 align="center">Hi, I'm Matt Enarle</h1>
 
-<p align="center">
-  <em>🏃 Marathoner, Hybrid Athlete, who loves to build apps 👨‍💻 from Bacolod City 🇵🇭</em>
-</p>
-
-<p align="left">
-  I build things that matter. My focus is on creating applications that solve real problems
-</p>
-
 ### Tech I Work With
 
 ```
