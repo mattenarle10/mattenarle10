@@ -8,5 +8,5 @@
 **Frontend:**
 `SolidJS` • `Next.js` • `TanStack Query` • `Tailwind`
 
-**Backend**
-`Rust` • `TypeScript` 
+**Backend:**
+`Python` • `TypeScript` • `Rust` 
