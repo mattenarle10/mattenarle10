@@ -2,9 +2,6 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=mattenarle10&theme=github-dark-dimmed&hide_border=true&border_radius=6&card_width=480&card_height=175" alt="GitHub Streak" />
   </a>
-
-  <br /><br />
-
   <img src="https://img.shields.io/badge/Next.js-00224D?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />&nbsp;
   <img src="https://img.shields.io/badge/SolidJS-00224D?style=for-the-badge&logo=solid&logoColor=white" alt="SolidJS" />&nbsp;
   <img src="https://img.shields.io/badge/TanStack-00224D?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack" />&nbsp;
